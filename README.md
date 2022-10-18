@@ -57,3 +57,16 @@
       <td colspan=3></td></tr>
 </table>
 <b>** Highlighted models = Self-designed models</b>
+<h3>Sample Prediction Masks:</h3>
+<table>
+  <tr><th rowspan=2>Fully-Supervised</th>
+      <th>Magnetic Tile</th>
+      <td><img src="https://github.com/putputloh/Surface-Defect-Detection/blob/main/Images/Picture1.png?raw=true" alt="Mask1"/></td>
+      <td><img src="https://github.com/putputloh/Surface-Defect-Detection/blob/main/Images/Picture3.png?raw=true alt="Mask2"/></td></tr>
+  <tr><th>KolektorSDD2</th>
+      <td><img src="https://github.com/putputloh/Surface-Defect-Detection/blob/main/Images/Picture2.png?raw=true alt="Mask3"/></td>
+      <td><img src="https://github.com/putputloh/Surface-Defect-Detection/blob/main/Images/Picture4.png?raw=true alt="Mask4"/></td></tr>
+  <tr><th>Weakly-Supervised</th>
+      <th>KolektorSDD2</th>
+      <td colspan=2><img src="https://github.com/putputloh/Surface-Defect-Detection/blob/main/Images/Picture5.png?raw=true alt="Mask5"/></td></tr>
+</table>
