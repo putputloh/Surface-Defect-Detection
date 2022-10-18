@@ -1,4 +1,4 @@
-# Surface-Defect-Detection
+# Surface Defect Detection
 <h3>Introduction:</h3>
 🙅‍♂️ Human quality inspection <br>
   &emsp; ➣ Some defects tend to be miniature and difficult to identify <br>
